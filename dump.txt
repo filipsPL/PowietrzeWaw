@@ -1,0 +1,207 @@
+     * [1]Przejdź do menu głównego
+     * [2]Przejdź do treści
+     * [3]Przejdź do wyszukiwarki
+
+Dane pomiarowe tabele stacji Warszawa, ul. Wokalna 1 - Główny inspektorat
+ochrony środowiska
+
+     * Wyszukiwarka
+       Szukana fraza: ____________________
+       (BUTTON) Szukaj
+     *
+          + [4]Wersja kontrastowa
+          + [5]Wersja polska
+          + [6]English version
+
+Menu główne
+
+   Menu
+     * [7]Strona główna
+     * [8]Kim jesteśmy
+     * [9]Kontakt
+
+     * [10]Prawodawstwo
+          + [11]Prawo polskie
+          + [12]Prawo UE
+          + [13]Odroczenia i derogacje
+          + [14]Konwencje międzynarodowe
+          + [15]Strategie
+          + [16]Inne dokumenty
+     * [17]Normy jakości powietrza
+          + [18]Roczna ocena jakości powietrza
+          + [19]Narażenie na pył PM2,5
+          + [20]Poziomy alertowe
+     * [21]Pomiary i ocena jakości powietrza
+          + [22]Strefy
+          + [23]Ocena
+          + [24]Pomiary
+     * [25]Programy ochrony powietrza i plany działań krótkoterminowych
+     * [26]Prognozy jakości powietrza
+          + [27]Krótkoterminowe
+          + [28]Długoterminowe
+     * [29]Narażenie na pył PM2,5
+     * [30]Regionalne tło zanieczyszczeń
+          + [31]Program EMEP
+          + [32]Program UE
+     * [33]Chemizm opadów atmosferycznych
+     * [34]Krajowe Laboratorium Referencyjne i Wzorcujące
+     * [35]Wyszukiwarka stacji
+     * [36]Publikacje
+     * [37]Regulamin
+     * [38]Zaloguj się
+
+   [39]Strona główna GIOŚ
+     * [40]Strona główna
+     * [41]Kim jesteśmy
+     * [42]Kontakt
+
+   Szczegółowe informacje o stacji: Warszawa , ul. Wokalna 1
+   [43]Menu
+
+Menu stacji
+
+     * [44]Podstawowe informacje o stacji
+     * [45]Wykres danych pomiarowych
+     * [46]Dane pomiarowe tabele
+     * [47]Bank danych pomiarowych
+
+Dane pomiarowe tabele stacji: Warszawa , ul. Wokalna 1
+
+   Aktualna data i godzina: 2017-01-27 23:00
+
+   Dane w tabeli wyświetlają się, jeżeli na stacji prowadzone są pomiary
+   automatyczne (1-godzinne wyniki pomiarów) przynajmniej jednego z
+   następujących zanieczyszczeń: pył PM10, pył PM2,5, ozon (O3), dwutlenek
+   azotu (NO2), dwutlenek siarki (SO2), benzen (C6H6), tlenek węgla (CO).
+   Wyniki pomiarów ze stanowisk manualnych znajdują się w zakładce „Bank
+   danych pomiarowych”.
+
+Pokaż dane z dni
+
+     * [48]1 dzień
+     * [49]3 dni
+     * [50]10 dni
+     * [51]30 dni
+
+Dane pomiarowe tabele
+
+   CAPTION: Dane pomiarowe tabele Warszawa , ul. Wokalna 1 (strona 2 z 2)
+
+   Zanieczyszczenie  PM10   PM2,5  O[3]   NO[2]  SO[2]  C[6]H[6]  CO
+       Jednostka     µg/m^3 µg/m^3 µg/m^3 µg/m^3 µg/m^3  µg/m^3  mg/m^3
+   27.01.2017, 01:00 77,3   68,5   5,8    55,5   7,4
+   27.01.2017, 02:00 66,5   58,7   5,8    56     6,5
+   27.01.2017, 03:00 65,5   57,1   6,3    55     7,2
+   27.01.2017, 04:00 63,2   55,3   16,8   39,3   8,8
+   27.01.2017, 05:00 66,8   58     16,1   38     9,9
+   27.01.2017, 06:00 70,2   60,6   7,9    46,1   10,8
+   27.01.2017, 07:00 74,1   64     3,3    52,1   11,1
+   27.01.2017, 08:00 81,8   70,3   4      63,5   12,6
+   27.01.2017, 09:00 89,5   76,7   5,4    67,8   13,4
+   27.01.2017, 10:00 93,5   79,4   10,2   61,1   22,6
+   27.01.2017, 11:00 93,2   77,9   16,1   56,8   23,8
+   27.01.2017, 12:00 97     76     21,9   59,6   21,2
+   27.01.2017, 13:00 82,9   65,2   34,7   46,6   20,4
+   27.01.2017, 14:00 80,6   61,5   41,9   43,9   16,8
+   27.01.2017, 15:00 99     72     34     52     16,3
+   27.01.2017, 16:00 90,5   70,6   34,2   53,4   15,3
+   27.01.2017, 17:00 104,7  71,4   13,4   77,4   16,1
+   27.01.2017, 18:00 123    76,3   2,6    94,5   19,3
+   27.01.2017, 19:00 123,5  82,3   0,6    104,8  16,4
+   27.01.2017, 20:00 116,8  93,6   1,5    97,1   18,5
+   27.01.2017, 21:00 122,2  99,7   2,8    112,2  14,8
+   27.01.2017, 22:00 140,7  117,8  4,7    115,8  17,7
+   27.01.2017, 23:00
+   28.01.2017, 00:00
+       Minimum       18,1   12,7   0,6    12     3,8
+       Maksimum      140,7  117,8  50,6   115,8  23,8
+       Średnia       59,3   47,2   21,6   47,1   9,4
+
+Stronicowanie
+
+     * [52]poprzednia strona «
+     * [53]strona1
+     * [54]strona2
+
+   Klauzula informująca o udzieleniu dostępu do danych niezweryfikowanych
+
+   Prezentowane dane są przed ostateczną weryfikacją i mogą ulec zmianie.
+   Dane prezentowane są w czasie lokalnym.
+
+   Korzystając z danych, informacji i materiałów zawartych na niniejszej
+   stronie, akceptują Państwo Zasady korzystania z informacji
+   udostępnianych w serwisie.
+
+
+
+   Rozbudowa portalu zrealizowana w ramach projektu "Wzmocnienie systemu
+   oceny jakości powietrza w Polsce w oparciu o doświadczenia norweskie" w
+   ramach Programu Operacyjnego PL03 "Wzmocnienie monitoringu środowiska
+   oraz działań kontrolnych" dofinansowana ze środków Mechanizmu
+   Finansowego EOG 2009-2014.
+   [55]Logo Norweski Mechanizm Finansowy
+
+   Copyright © 2015 GIOŚ. Wszelkie prawa zastrzeżone
+   Odwiedziło nas: 403614 osób
+
+References
+
+   Visible links
+   1. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1#mm
+   2. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1#txt
+   3. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1#sz
+   4. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1?theme=contrast
+   5. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1?lang=pl
+   6. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1?lang=en
+   7. http://powietrze.gios.gov.pl/pjp/home
+   8. http://powietrze.gios.gov.pl/pjp/content/about_us
+   9. http://powietrze.gios.gov.pl/pjp/content/contact
+  10. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  11. http://powietrze.gios.gov.pl/pjp/content/polish_law
+  12. http://powietrze.gios.gov.pl/pjp/content/eu_law_directives_decisions
+  13. http://powietrze.gios.gov.pl/pjp/content/derogations_postponement
+  14. http://powietrze.gios.gov.pl/pjp/content/conventions
+  15. http://powietrze.gios.gov.pl/pjp/content/strategies
+  16. http://powietrze.gios.gov.pl/pjp/content/other
+  17. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  18. http://powietrze.gios.gov.pl/pjp/content/annual_assessment_air_quality_info
+  19. http://powietrze.gios.gov.pl/pjp/content/annual_assessment_air_exposure_dust_info
+  20. http://powietrze.gios.gov.pl/pjp/content/annual_assessment_air_exposure_alarms_level_info
+  21. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  22. http://powietrze.gios.gov.pl/pjp/content/measuring_air_assessment_zone_info
+  23. http://powietrze.gios.gov.pl/pjp/content/measuring_air_assessment_rating_info
+  24. http://powietrze.gios.gov.pl/pjp/content/measuring_air_assessment_measurings
+  25. http://powietrze.gios.gov.pl/pjp/content/air_protection_programs
+  26. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  27. http://powietrze.gios.gov.pl/pjp/content/air_quality_forecast_short_term_info
+  28. http://powietrze.gios.gov.pl/pjp/content/air_quality_forecast_long_term
+  29. http://powietrze.gios.gov.pl/pjp/content/exposure_dust_pm
+  30. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  31. http://powietrze.gios.gov.pl/pjp/content/regional_background_pollution_emep
+  32. http://powietrze.gios.gov.pl/pjp/content/regional_background_pollution_ue
+  33. http://powietrze.gios.gov.pl/pjp/content/chemistry_of_atmospheric_precipitation
+  34. http://powietrze.gios.gov.pl/pjp/content/national_reference_laboratory_calibration
+  35. http://powietrze.gios.gov.pl/pjp/station/search
+  36. http://powietrze.gios.gov.pl/pjp/content/publications
+  37. http://powietrze.gios.gov.pl/pjp/content/terms_of_service
+  38. http://powietrze.gios.gov.pl/pjp/login
+  39. http://www.gios.gov.pl/
+  40. http://powietrze.gios.gov.pl/pjp/home
+  41. http://powietrze.gios.gov.pl/pjp/content/about_us
+  42. http://powietrze.gios.gov.pl/pjp/content/contact
+  43. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  44. http://powietrze.gios.gov.pl/pjp/current/station_details/info/550
+  45. http://powietrze.gios.gov.pl/pjp/current/station_details/chart/550
+  46. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/0
+  47. http://powietrze.gios.gov.pl/pjp/current/station_details/archive/550
+  48. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/1/0
+  49. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/0
+  50. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/10/0
+  51. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/30/0
+  52. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/0
+  53. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/0
+  54. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
+  55. https://www.eog.gov.pl/
+
+   Hidden links:
+  57. http://powietrze.gios.gov.pl/pjp/current/station_details/table/550/3/1
